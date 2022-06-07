@@ -4,33 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:foreground="@drawable/menu"
+    android:foreground="@drawable/menujuegos"
     tools:context=".MENU">
-
-    <Button
-        android:id="@+id/amigosboton"
-        android:layout_width="274dp"
-        android:layout_height="162dp"
-        android:background="#00FFFFFF"
-        android:text="Button"
-        app:iconTint="#00FFFFFF"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.312"
-        app:rippleColor="#00FFFFFF"
-        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/juegosboton"
         android:layout_width="207dp"
         android:layout_height="138dp"
+        android:layout_marginBottom="260dp"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/amigosboton"
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
