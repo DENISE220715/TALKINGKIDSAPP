@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout-v31/activity_registro.xml" value="0.1526268115942029" />
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout/activity_acceso.xml" value="0.25" />
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout/activity_inicio.xml" value="0.33" />
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout/activity_menu.xml" value="0.16485507246376813" />
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout/activity_recuperar.xml" value="0.25" />
+        <entry key="..\:/Proyectos Java/TalkingKids/TALKINGKIDSAPP/app/src/main/res/layout/activity_registro.xml" value="0.33" />
         <entry key="..\:/Users/f117w/AndroidStudioProjects/TALKINGKIDSAPP/app/src/main/res/drawable-v24/button_round.xml" value="0.1" />
         <entry key="..\:/Users/f117w/AndroidStudioProjects/TALKINGKIDSAPP/app/src/main/res/drawable-v24/edit_text_note.xml" value="0.1" />
         <entry key="..\:/Users/f117w/AndroidStudioProjects/TALKINGKIDSAPP/app/src/main/res/drawable-v24/ic_check.xml" value="0.1" />
